@@ -1,0 +1,153 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/zcxxxxxxx/zcxxxxxxx.github.io/docs",
+          "editUrlLocalized": "https://github.com/zcxxxxxxx/zcxxxxxxx.github.io/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/media/zcx/E/zcxxxxxxx.github.io/sidebars.js",
+          "contentPath": "/media/zcx/E/zcxxxxxxx.github.io/docs",
+          "contentPathLocalized": "/media/zcx/E/zcxxxxxxx.github.io/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "personal_html",
+              "id": "personal_html",
+              "title": "个人网页",
+              "description": "网站建设",
+              "source": "@site/docs/personal_html.md",
+              "sourceDirName": ".",
+              "slug": "/personal_html",
+              "permalink": "/docs/personal_html",
+              "draft": false,
+              "editUrl": "https://github.com/zcxxxxxxx/zcxxxxxxx.github.io/docs/personal_html.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "id": "personal_html",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "有用的快捷键",
+                "permalink": "/docs/useful_hoy_key"
+              }
+            },
+            {
+              "unversionedId": "useful_hoy_key",
+              "id": "useful_hoy_key",
+              "title": "有用的快捷键",
+              "description": "在大部分IDE中常用的快捷键",
+              "source": "@site/docs/useful_hot_key.md",
+              "sourceDirName": ".",
+              "slug": "/useful_hoy_key",
+              "permalink": "/docs/useful_hoy_key",
+              "draft": false,
+              "editUrl": "https://github.com/zcxxxxxxx/zcxxxxxxx.github.io/docs/useful_hot_key.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "id": "useful_hoy_key",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "有用的工具",
+                "permalink": "/docs/useful_tool"
+              },
+              "next": {
+                "title": "个人网页",
+                "permalink": "/docs/personal_html"
+              }
+            },
+            {
+              "unversionedId": "useful_tool",
+              "id": "useful_tool",
+              "title": "有用的工具",
+              "description": "具体用法自行搜索",
+              "source": "@site/docs/useful_tool.md",
+              "sourceDirName": ".",
+              "slug": "/useful_tool",
+              "permalink": "/docs/useful_tool",
+              "draft": false,
+              "editUrl": "https://github.com/zcxxxxxxx/zcxxxxxxx.github.io/docs/useful_tool.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "useful_tool",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "有用的快捷键",
+                "permalink": "/docs/useful_hoy_key"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "useful_tool"
+              },
+              {
+                "type": "doc",
+                "id": "useful_hoy_key"
+              },
+              {
+                "type": "doc",
+                "id": "personal_html"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

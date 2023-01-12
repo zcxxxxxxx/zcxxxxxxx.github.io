@@ -1,0 +1,52 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "有用的工具",
+        "href": "/docs/useful_tool",
+        "docId": "useful_tool"
+      },
+      {
+        "type": "link",
+        "label": "有用的快捷键",
+        "href": "/docs/useful_hoy_key",
+        "docId": "useful_hoy_key"
+      },
+      {
+        "type": "link",
+        "label": "个人网页",
+        "href": "/docs/personal_html",
+        "docId": "personal_html"
+      }
+    ]
+  },
+  "docs": {
+    "personal_html": {
+      "id": "personal_html",
+      "title": "个人网页",
+      "description": "网站建设",
+      "sidebar": "tutorialSidebar"
+    },
+    "useful_hoy_key": {
+      "id": "useful_hoy_key",
+      "title": "有用的快捷键",
+      "description": "在大部分IDE中常用的快捷键",
+      "sidebar": "tutorialSidebar"
+    },
+    "useful_tool": {
+      "id": "useful_tool",
+      "title": "有用的工具",
+      "description": "具体用法自行搜索",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}
