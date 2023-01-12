@@ -24,3 +24,6 @@ Nextra 是一个建立在 Next.js 之上的、具有强制规则（opinionated �
 没用过，官网[在这](https://www.netlify.com/)
 #### vercel
 也没用过，[官网](https://vercel.com/)
+### 个人博客
+#### hxio
+没用过，[官网](https://hexo.io/zh-cn/docs/)
