@@ -5,7 +5,7 @@ sidebar_position: 1
 # 有用的工具
 具体用法自行搜索
 ## bilibili
-你从哪个大学毕业的？[bilibili大学](www.bilibili.com)，b站真的有很多优秀的教学资源
+你从哪个大学毕业的？bilibili大学，b站真的有很多优秀的教学资源
 ## jupyter
 当你用Python or R 进行一些数据分析的运算，可以在这上面运行，比较方便
 ## DEBUG
