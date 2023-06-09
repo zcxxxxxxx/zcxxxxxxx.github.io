@@ -58,7 +58,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'useful_tool',
+            docId: 'review',
             position: 'left',
             label: 'Tool',
           },
