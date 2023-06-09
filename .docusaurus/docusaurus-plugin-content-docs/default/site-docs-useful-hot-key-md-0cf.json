@@ -1,0 +1,28 @@
+{
+  "unversionedId": "useful_hoy_key",
+  "id": "useful_hoy_key",
+  "title": "有用的快捷键",
+  "description": "在大部分IDE中常用的快捷键",
+  "source": "@site/docs/useful_hot_key.md",
+  "sourceDirName": ".",
+  "slug": "/useful_hoy_key",
+  "permalink": "/docs/useful_hoy_key",
+  "draft": false,
+  "editUrl": "https://github.com/zcxxxxxxx/zcxxxxxxx.github.io/docs/useful_hot_key.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "useful_hoy_key",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "有用的工具",
+    "permalink": "/docs/useful_tool"
+  },
+  "next": {
+    "title": "概念",
+    "permalink": "/docs/review"
+  }
+}

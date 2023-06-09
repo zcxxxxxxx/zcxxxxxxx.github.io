@@ -1,0 +1,24 @@
+{
+  "unversionedId": "review",
+  "id": "review",
+  "title": "概念",
+  "description": "这些问题涵盖了大量的 Java 和编程的基本概念，我会尽量一一进行解答：",
+  "source": "@site/docs/review.md",
+  "sourceDirName": ".",
+  "slug": "/review",
+  "permalink": "/docs/review",
+  "draft": false,
+  "editUrl": "https://github.com/zcxxxxxxx/zcxxxxxxx.github.io/docs/review.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "review",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "例子",
+    "permalink": "/docs/JAVA_review"
+  }
+}

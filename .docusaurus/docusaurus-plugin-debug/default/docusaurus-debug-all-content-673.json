@@ -1,0 +1,120 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/zcxxxxxxx/zcxxxxxxx.github.io/docs",
+          "editUrlLocalized": "https://github.com/zcxxxxxxx/zcxxxxxxx.github.io/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "D:\\Git_repo\\zcxxxxxxx.github.io\\sidebars.js",
+          "contentPath": "D:\\Git_repo\\zcxxxxxxx.github.io\\docs",
+          "contentPathLocalized": "D:\\Git_repo\\zcxxxxxxx.github.io\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "JAVA_review",
+              "id": "JAVA_review",
+              "title": "例子",
+              "description": "1. Java标识符：",
+              "source": "@site/docs/JAVA_review.md",
+              "sourceDirName": ".",
+              "slug": "/JAVA_review",
+              "permalink": "/docs/JAVA_review",
+              "draft": false,
+              "editUrl": "https://github.com/zcxxxxxxx/zcxxxxxxx.github.io/docs/JAVA_review.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "概念",
+                "permalink": "/docs/review"
+              }
+            },
+            {
+              "unversionedId": "review",
+              "id": "review",
+              "title": "概念",
+              "description": "这些问题涵盖了大量的 Java 和编程的基本概念，我会尽量一一进行解答：",
+              "source": "@site/docs/review.md",
+              "sourceDirName": ".",
+              "slug": "/review",
+              "permalink": "/docs/review",
+              "draft": false,
+              "editUrl": "https://github.com/zcxxxxxxx/zcxxxxxxx.github.io/docs/review.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "review",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "例子",
+                "permalink": "/docs/JAVA_review"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "review"
+              },
+              {
+                "type": "doc",
+                "id": "JAVA_review"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

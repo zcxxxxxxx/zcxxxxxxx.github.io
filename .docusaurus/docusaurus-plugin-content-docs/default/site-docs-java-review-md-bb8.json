@@ -1,0 +1,23 @@
+{
+  "unversionedId": "JAVA_review",
+  "id": "JAVA_review",
+  "title": "例子",
+  "description": "1. Java标识符：",
+  "source": "@site/docs/JAVA_review.md",
+  "sourceDirName": ".",
+  "slug": "/JAVA_review",
+  "permalink": "/docs/JAVA_review",
+  "draft": false,
+  "editUrl": "https://github.com/zcxxxxxxx/zcxxxxxxx.github.io/docs/JAVA_review.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "概念",
+    "permalink": "/docs/review"
+  }
+}

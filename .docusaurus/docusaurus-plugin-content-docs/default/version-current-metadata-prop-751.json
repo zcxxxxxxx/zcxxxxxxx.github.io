@@ -1,0 +1,40 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "概念",
+        "href": "/docs/review",
+        "docId": "review"
+      },
+      {
+        "type": "link",
+        "label": "例子",
+        "href": "/docs/JAVA_review",
+        "docId": "JAVA_review"
+      }
+    ]
+  },
+  "docs": {
+    "JAVA_review": {
+      "id": "JAVA_review",
+      "title": "例子",
+      "description": "1. Java标识符：",
+      "sidebar": "tutorialSidebar"
+    },
+    "review": {
+      "id": "review",
+      "title": "概念",
+      "description": "这些问题涵盖了大量的 Java 和编程的基本概念，我会尽量一一进行解答：",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}
